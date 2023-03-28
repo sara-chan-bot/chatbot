@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chatbot/static/css/main.cfc25366.css",
+    "main.js": "/chatbot/static/js/main.35ceecc1.js",
+    "static/js/279.78927bc9.chunk.js": "/chatbot/static/js/279.78927bc9.chunk.js",
+    "static/js/27.8a1a6e54.chunk.js": "/chatbot/static/js/27.8a1a6e54.chunk.js",
+    "index.html": "/chatbot/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.cfc25366.css",
+    "static/js/main.35ceecc1.js"
+  ]
+}
